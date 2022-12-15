@@ -6,7 +6,7 @@ Estamos no modelo totalmente remoto e trabalhamos com PHP(Slim, Laravel e Twig),
 
 📌Sempre temos vagas de infra ou desenvolvimento, aqui você pode dar uma olhada e entender melhor como trabalhamos: https://www.feedz.com.br/vagas/
 
-📌Grupo no Whats de vagas tech na Feedz: https://bit.ly/whatsfeedz 
+📌Grupo no Whats de vagas tech na Feedz: https://chat.whatsapp.com/IXfK0zcRsUoDusn3nP6Yp8
 
 Se tiver dúvidas ou quiser mais detalhes do nosso produto e time de tecnologia, pode ficar a vontade para me chamar e trocarmos uma ideia! 
 
